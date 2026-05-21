@@ -1,47 +1,63 @@
-# 🏨 Aurum Suite
+# 🧮 Aurum Suite
 
-A premium luxury hotel landing page built with modern frontend technologies, featuring cinematic visuals, elegant UI design, immersive user experience, and responsive performance.
+Aurum Suite is a premium all-in-one utility web application built to combine powerful everyday tools into one elegant and modern digital experience.
 
-## 🚀 Live Demo
-
-🔗 https://ayushrajfrontend.github.io/aurum-suite/
-
----
+Designed with premium UI aesthetics, responsive layouts, and smooth interactions, Aurum Suite offers productivity-focused tools inside a polished frontend experience.
 
 ## ✨ Features
 
-- 🎬 Cinematic luxury hero section
-- 🏨 Premium hotel branding design
-- 🛏️ Elegant room showcase
-- 🍽️ Luxury dining / amenities sections
-- 📸 High-end gallery experience
-- 📩 Reservation / contact form
-- ✨ Smooth animations and transitions
-- 🌌 Premium glassmorphism UI
-- 📱 Fully responsive mobile-friendly layout
+- Smart calculator
+- Scientific calculator tools
+- Live currency converter
+- Unit converter
+- Premium responsive UI
+- Smooth modern animations
+- Mobile-friendly design
+- Progressive Web App (PWA) support
+- Fast interactive frontend experience
 
----
+## 🛠 Tech Stack
 
-## 🛠️ Tech Stack
-
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
+- API Integration
+- PWA
+- GitHub Pages Deployment
 
----
+## 🌐 Live Demo
 
-## 📂 Project Structure
+🔗 https://ayushrajfrontend.github.io/aurum-suite/
 
-```bash
-aurum-suite/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── images/
-│   ├── hero.jpg
-│   ├── rooms.jpg
-│   ├── gallery1.jpg
-│   ├── gallery2.jpg
-│   └── assets
+## 📸 Preview
+
+![Aurum Suite Preview](images/aurum-preview.png)
+
+## 🎯 Project Purpose
+
+Aurum Suite was built to showcase frontend development skills through a premium utility-focused web application that combines practical tools with modern UI design.
+
+The goal was to create a fast, polished, and feature-rich browser experience.
+
+## 🚀 Highlights
+
+- Premium modern UI
+- Real API integration
+- Interactive tool logic
+- Responsive design
+- Installable PWA functionality
+- Productivity-focused experience
+
+## 📂 Source Code
+
+GitHub Repository:  
+https://github.com/AyushRajFrontend/aurum-suite
+
+## 👨‍💻 Author
+
+**Ayush Raj**
+
+Frontend Developer focused on premium digital experiences.
+
+Portfolio:  
+https://ayushrajfrontend.github.io/ayush-portfolio/
